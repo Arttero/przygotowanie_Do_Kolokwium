@@ -1,0 +1,4 @@
+Room: roomNumber= 2a, beds= 2, pricePerNight= 60 zł/noc
+Room: roomNumber= 4, beds= 3, pricePerNight= 100 zł/noc
+Room: roomNumber= 5, beds= 3, pricePerNight= 100 zł/noc
+Room: roomNumber= 3, beds= 5, pricePerNight= 150 zł/noc
